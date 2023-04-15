@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "render_layer": "cutout",
+  "textures": {
+    "down": "tutorialmod:block/palm_log_top",
+    "up": "tutorialmod:block/palm_log_top",
+    "north": "tutorialmod:block/palm_log",
+    "east": "tutorialmod:block/palm_log",
+    "south": "tutorialmod:block/palm_log",
+    "west": "tutorialmod:block/palm_log",
+    "particles": "tutorialmod:block/palm_log"
+  }
+
+}
