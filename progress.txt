@@ -1,0 +1,30 @@
+What's going to be implemented. (No particular order)
+
+
+
+- New Tree [Unique wood/leaves] spawns in x biome.
+	- Two variants = unique leaf placement
+
+- Excalibur Sword
+- Excalibur Sword Raw/Smelted Ore (Not official name)
+	- Natural Generation (more rare than diamonds)
+	- Mixed with netherite for sword crafting
+- Excalibur "Ore" Block
+
+- Huge Tree House structure (spawns in jungle biome/rare spawn)
+
+- Monkey Mob
+	- Hostile when hit, monkey will throw darts at you if you hit it.
+	- Breeding??
+	- Spawns in jungle biome
+
+- Desert structure
+	- Cool abandoned structure.
+	- Lots of water
+	- Book that includes information about how to get Excalibur sword/recipe
+
+
+- Custom Village (Big Update)
+	- This is going to take some time.
+
+
