@@ -5,6 +5,8 @@
   "block.tutorialmod.palm_log": "Palm Log",
   "block.tutorialmod.palm_leaves": "Palm Leaves",
   "block.tutorialmod.xylem_block": "Xylem Block",
+  "item.tutorialmod.heart_container": "Heart Container",
+  "item.tutorialmod.crystal_shard": "Crystal Shard",
 
   "creativemodetab.tutorial_tab": "Tutorial Tab"
 }

@@ -82,6 +82,7 @@ public class TutorialMod
         if (event.getTab() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.ZIRCON);
             event.accept(ModItems.RAW_ZIRCON);
+            event.accept(ModItems.CRYSTAL_SHARD);
         }
 
         /*
@@ -94,6 +95,8 @@ public class TutorialMod
             event.accept(ModBlocks.PALM_LOG);
             event.accept(ModBlocks.PALM_LEAVES);
             event.accept(ModBlocks.XYLEM_BLOCK);
+            event.accept(ModItems.HEART_CONTAINER);
+            event.accept(ModItems.CRYSTAL_SHARD);
         }
 
 

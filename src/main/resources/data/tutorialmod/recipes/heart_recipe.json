@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "Z": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "X": {
+      "item": "tutorialmod:crystal_shard"
+    }
+  },
+  "pattern": [
+    "ZXZ",
+    "XZX",
+    "ZXZ"
+  ],
+  "result": {
+    "count": 1,
+    "item": "tutorialmod:heart_container"
+  },
+  "show_notification": false
+}
