@@ -14,8 +14,7 @@ import net.minecraftforge.eventbus.api.IEventBus;
 
 import java.util.function.Supplier;
 
-public class ModBlocks
-{
+public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, TutorialMod.MODID);
 
@@ -31,6 +30,10 @@ public class ModBlocks
 
     public static final RegistryObject<Block> PALM_LEAVES = registerBlock("palm_leaves",
             () -> new Block(BlockBehaviour.Properties.of(Material.LEAVES).strength(3f)));
+
+
+    public static final RegistryObject<Block> XYLEM_BLOCK = registerBlock("xylem_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.GRASS).strength(3f).requiresCorrectToolForDrops()));
 
 
 

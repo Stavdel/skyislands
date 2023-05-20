@@ -55,7 +55,6 @@ public class TutorialMod
 
 
 
-
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
 
@@ -94,6 +93,7 @@ public class TutorialMod
             event.accept(ModBlocks.ZIRCON_BLOCK);
             event.accept(ModBlocks.PALM_LOG);
             event.accept(ModBlocks.PALM_LEAVES);
+            event.accept(ModBlocks.XYLEM_BLOCK);
         }
 
 
@@ -101,6 +101,7 @@ public class TutorialMod
             event.accept(ModBlocks.ZIRCON_BLOCK);
             event.accept(ModBlocks.PALM_LOG);
             event.accept(ModBlocks.PALM_LEAVES);
+            event.accept(ModBlocks.XYLEM_BLOCK);
         }
     }
 

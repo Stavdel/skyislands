@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "render_layer": "cutout",
+  "textures": {
+    "down": "tutorialmod:block/xylem_block_bottom",
+    "up": "tutorialmod:block/xylem_block_top",
+    "north": "tutorialmod:block/xylem_block_side",
+    "east": "tutorialmod:block/xylem_block_side",
+    "south": "tutorialmod:block/xylem_block_side",
+    "west": "tutorialmod:block/xylem_block_side",
+    "particles": "tutorialmod:block/xylem_block_top"
+  }
+
+}
