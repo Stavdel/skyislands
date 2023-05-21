@@ -1,6 +1,7 @@
 package com.stav.tutorialmod.item;
 
 import com.stav.tutorialmod.TutorialMod;
+import com.stav.tutorialmod.item.custom.HeartContainerItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -23,10 +24,7 @@ public class ModItems
 
 
     public static final RegistryObject<Item> HEART_CONTAINER = ITEMS.register("heart_container",
-            () -> new Item(new Item.Properties()));
-
-
-
+            () -> new HeartContainerItem(new Item.Properties()));
 
 
 
